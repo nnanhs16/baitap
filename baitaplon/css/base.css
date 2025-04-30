@@ -1,0 +1,12 @@
+:root{
+    --color-one:lighblue;
+    --font: 'Inria serif', serif;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
